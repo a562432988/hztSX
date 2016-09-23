@@ -10,7 +10,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string><![CDATA[http://hzt.zxmqt.com:8089/static/action/Update?action=down&attachid=4029c4875747d5ce01574a84e0337f31&download=1]]></string>
+					<string><![CDATA[http://hzt.zxmqt.com:8089/static/action/Update?action=down&attachid=4029c487574bf1170157561e9c0d069b&download=1]]></string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -18,7 +18,7 @@
 				<key>bundle-identifier</key>
 				<string>com.zxmoa.hztSX</string>
 				<key>bundle-version</key>
-				<string>1.4.9</string>
+				<string>1.4.10</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
