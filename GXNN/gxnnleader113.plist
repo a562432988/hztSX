@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string><![CDATA[http://gxnn.ihezhang.com:8089/static/action/Update?action=down&attachid=8a27798360c40eec0160c4f57014006a&download=1]]></string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.zxmoa.gxnnleader</string>
+				<key>bundle-version</key>
+				<string>1.1.3</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>南宁河长制领导版</string>
+				<key>title</key>
+				<string>南宁河长制领导版</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
